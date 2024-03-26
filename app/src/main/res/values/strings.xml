@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kalkulator_Sederhana</string>
+    <string name="kalulator">Kalkulator</string>
+    <string name="kalkulator_sederhana">Kalkulator Sederhana</string>
+    <string name="angka_pertama">Angka Pertama</string>
+    <string name="angka_kedua">Angka Kedua</string>
+    <string name="hasilnya">Hasilnya</string>
+    <string name="about">About</string>
+</resources>
